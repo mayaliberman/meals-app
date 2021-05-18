@@ -4,7 +4,6 @@ import {
   Text,
   StyleSheet,
   TouchableOpacity,
-  Touchable,
   ImageBackground,
 } from 'react-native';
 import DefaultText from './DefaultText';
